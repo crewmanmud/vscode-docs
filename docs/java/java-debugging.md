@@ -66,7 +66,7 @@ If you want to debug `current file`, there is a convenient setting, so the edito
   <source src="/docs/java/java-debugging/current-file.mp4" type="video/mp4">
 </video>
 
-For more details on how to create the `launch.json`, please read [Launch configurations](/docs/editor/debugging.md#launch-configurations); for more details on configuraiton options for Java, please read [Configuration options](/docs/java/java-debugging.md#configuration-options).
+For more details on how to create the `launch.json`, please read [Launch configurations](/docs/editor/debugging.md#launch-configurations); for more details on configuration options for Java, please read [Configuration options](/docs/java/java-debugging.md#configuration-options).
 
 ## Use
 
